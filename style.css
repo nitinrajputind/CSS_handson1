@@ -1,0 +1,52 @@
+h1 {
+    color: red;
+}
+
+h2{
+    font-style: italic;
+    color: rgba(255, 68, 0, 0.805);
+    font-size: 30px;
+}
+
+ol {
+    color: #714c49;
+    font-size: 20px;
+    
+}
+
+.container{
+    margin-left: 20px;
+    line-height: 50px;
+}
+
+.Linethrough{
+    text-decoration: line-through;
+}
+
+.Bg-color{
+    background-color: yellow;
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+.contanier1{
+    color: #804442;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+a {
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(146, 79, 62);
+    background-color: yellow;
+    text-decoration: none;
+}
+
+p {
+    color: #9f7158;
+    font-size: 18px;
+    line-height: 20px;
+}
